@@ -2,7 +2,7 @@
 # Analyzing the Impact of Social Media Usage on Productivity
 
 ## Project Description
-This project aims to explore the relationship between my social media usage—specifically YouTube and TikTok—and my productivity levels as measured by focused study time recorded in the Forest app. By analyzing personal data collected over a two-month period, I hope to gain insights into how social media consumption affects my ability to focus and be productive.
+This project aims to explore the relationship between my social media usage(specifically YouTube and TikTok)and my productivity levels as measured by focused study time recorded in the Forest app. By analyzing personal data collected over a two-month period, I hope to gain insights into how social media consumption affects my ability to focus and be productive.
 
 
 ## Motivation
@@ -11,19 +11,14 @@ Understanding how time spent on social media impacts productivity can help devel
 
 ## Data Sources
 1. **YouTube Watch History**
-
--Data Collected: Video titles, channel names, and timestamps of when videos were watched.
--Enhancements Planned: Use the YouTube Data API to obtain additional details such as video durations and categories.
+-**Data Collected:** Video titles, channel names, and timestamps of when videos were watched.
+-**Enhancements Planned:** Use the YouTube Data API to obtain additional details such as video durations and categories.
 
 2. **TikTok Screen Time Data**
-
--Data Collected: Daily total screen time manually recorded from the TikTok app.
--Time Frame: Starting from November 3, 2024, continuing daily throughout the project.
+-**Data Collected:** Daily total screen time manually recorded from the TikTok app.
 
 3. **Forest App Productivity Data**
-
-Data Collected: Focused study time and number of focus sessions per day.
-Time Frame: Starting from November 2, 2024, continuing daily throughout the project.
+-**Data Collected:** Focused study time and number of focus sessions per day.
 
 
 ## Project Plan
@@ -63,12 +58,10 @@ Reflect on limitations and propose areas for future research.
 
 
 ## Technologies and Tools
-Programming Language: Python
-Data Analysis Libraries: Pandas, NumPy
-Data Visualization Libraries: Matplotlib, Seaborn
-Machine Learning Libraries: Scikit-learn
-APIs and Tools: YouTube Data API
-Version Control: Git and GitHub
-Ethical Considerations
-Privacy: All personal data will be kept confidential and will not be shared publicly.
-Transparency: Limitations and potential biases in the data will be acknowledged and discussed.
+-**Programming Language:** Python
+-**Data Analysis Libraries:** Pandas, NumPy
+-**Data Visualization Libraries:** Matplotlib, Seaborn
+-**Machine Learning Libraries:** Scikit-learn
+-**APIs and Tools**: YouTube Data API
+-**Version Control:** Git and GitHub
+
